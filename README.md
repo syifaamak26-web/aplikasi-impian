@@ -6,6 +6,6 @@ Kelas: [Kelas]
 Repository untuk belajar manajemen konfigurasi, khususnya version control dengan Git dan GitHub.
 
 ## Progress Belajar
-- [ ] Setup Git lokal
-- [ ] Buat repository GitHub
-- [ ] Commit pertama
+- [x] Setup Git lokal
+- [x] Buat repository GitHub
+- [x] Commit pertama
